@@ -10,7 +10,7 @@ export default class App extends Component {
     return (
       <>
         <Routes>
-          <Route path="/Home" element={<Home />} />
+          <Route path="/project-react-quiz-app-three-boilerplate" element={<Home />} />
           <Route path="/Quiz" element={<Quiz />} />
           <Route path="/Result" element={<Result />} />
         </Routes>
